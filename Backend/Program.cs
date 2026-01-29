@@ -10,6 +10,8 @@ namespace Backend
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("I am FPT Student");
+            Console.WriteLine("I am RMIT");
         }
     }
 }
